@@ -54,6 +54,20 @@ and [Active Support](activesupport/README.rdoc), a collection
 of utility classes and standard library extensions that are useful for Rails,
 and may also be used independently outside Rails.
 
+## Before getting started
+
+1. You should download docker on your computer
+
+2. Make a new directory
+
+        $ mkdir myapp
+        $ cd /myapp
+
+3. Clone this repo into your computer
+
+        $ git clone https://github.com/Pavelnas/Acml-Final-Project.git
+
+
 ## Getting Started
 
 1. Build the rails framework in Docker
